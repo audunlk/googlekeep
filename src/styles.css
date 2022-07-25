@@ -102,7 +102,7 @@ form button{
 .note button{
     position: relative;
     float: right;
-    color: orange;
+    color: rgb(207, 160, 4);
     background: none;
     cursor: pointer;
     outline: none;
