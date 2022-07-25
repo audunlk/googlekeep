@@ -5,7 +5,7 @@ function Header(props) {
     return (
         <div className ="header">
             {logo}
-            <h3>Keep</h3>
+            <h3>The Notebook</h3>
         </div>
     );
 }

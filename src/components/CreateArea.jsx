@@ -53,7 +53,7 @@ function CreateArea({submitButton, onAdd}) {
                     value={note.content} 
                     onClick={handleExpanded}
                     name="content" 
-                    placeholder="Take a note..."
+                    placeholder="Write something.."
                     onChange={handleChange}>
                     rows={isExpanded ? 3 : 1}    
                     </textarea>
